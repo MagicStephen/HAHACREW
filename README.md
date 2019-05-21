@@ -67,4 +67,22 @@ mam hlad
     <td>X</td>
     <td>X</td>
   </tr>
+  <tr>
+    <td>JS for React</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td>eShop</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+  </tr>
 </table>
