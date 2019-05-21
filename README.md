@@ -2,7 +2,7 @@
 mam hlad
 
 <table class="table table-bordered">
-  <thead class="thead-dark">
+  <thead class="thead-light">
   <tr>
     <th>Zvladl</th>
     <th >Honza</th>
