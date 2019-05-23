@@ -43,38 +43,38 @@ mam hlad
   <tr>
     <td>JavaScript</td>
     <td>Ano</td>
-    <td>In progress</td>
     <td>Ano</td>
-    <td>In progress</td>
-    <td>In progress</td>
-    <td>In progress</td>
+    <td>Ano</td>
+    <td>Ano</td>
+    <td>Ano</td>
+    <td>Ano</td>
   </tr>
   <tr>
     <td>Node.js</td>
     <td>Ano</td>
-    <td>In progress</td>
-    <td>In progress</td>
-    <td>In progress</td>
-    <td>In progress</td>
-    <td>In progress</td>
+    <td>Ano</td>
+    <td>Ano</td>
+    <td>Ano</td>
+    <td>Ano</td>
+    <td>Ano</td>
   </tr>
   <tr>
     <td>React.js</td>
     <td>In progress</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
+    <td>In progress</td>
+    <td>In progress</td>
+    <td>In progress</td>
+    <td>In progress</td>
+    <td>In progress</td>
   </tr>
   <tr>
     <td>JS for React</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
+    <td>In progress</td>
+    <td>In progress</td>
+    <td>In progress</td>
+    <td>In progress</td>
+    <td>In progress</td>
+    <td>In progress</td>
   </tr>
   <tr>
     <td>eShop</td>
