@@ -33,30 +33,30 @@ mam hlad
   </tr>
   <tr>
     <td>Bootstrap</td>
-    <td>In progress</td>
-    <td>In progress</td>
-    <td>In progress</td>
-    <td>In progress</td>
-    <td>In progress</td>
-    <td>In progress</td>
+    <td>Ano</td>
+    <td>Ano</td>
+    <td>Ano</td>
+    <td>Ano</td>
+    <td>Ano</td>
+    <td>Ano</td>
   </tr>
   <tr>
     <td>JavaScript</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
+    <td>In progress</td>
+    <td>In progress</td>
+    <td>In progress</td>
+    <td>In progress</td>
+    <td>In progress</td>
+    <td>In progress</td>
   </tr>
   <tr>
     <td>Node.js</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
+    <td>In progress</td>
+    <td>In progress</td>
+    <td>In progress</td>
+    <td>In progress</td>
+    <td>In progress</td>
+    <td>In progress</td>
   </tr>
   <tr>
     <td>React.js</td>
