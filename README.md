@@ -42,8 +42,8 @@ mam hlad
   </tr>
   <tr>
     <td>JavaScript</td>
-    <td>In progress</td>
-    <td>In progress</td>
+    <td>Ano</td>
+    <td>Ano</td>
     <td>In progress</td>
     <td>In progress</td>
     <td>In progress</td>
@@ -51,7 +51,7 @@ mam hlad
   </tr>
   <tr>
     <td>Node.js</td>
-    <td>In progress</td>
+    <td>Ano</td>
     <td>In progress</td>
     <td>In progress</td>
     <td>In progress</td>
@@ -60,7 +60,7 @@ mam hlad
   </tr>
   <tr>
     <td>React.js</td>
-    <td>X</td>
+    <td>In progress</td>
     <td>X</td>
     <td>X</td>
     <td>X</td>
