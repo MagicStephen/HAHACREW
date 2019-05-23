@@ -60,7 +60,7 @@ mam hlad
   </tr>
   <tr>
     <td>React.js</td>
-    <td>In progress</td>
+    <td>Ano</td>
     <td>In progress</td>
     <td>In progress</td>
     <td>In progress</td>
@@ -69,7 +69,7 @@ mam hlad
   </tr>
   <tr>
     <td>JS for React</td>
-    <td>In progress</td>
+    <td>Ano</td>
     <td>In progress</td>
     <td>In progress</td>
     <td>In progress</td>
