@@ -43,8 +43,8 @@ mam hlad
   <tr>
     <td>JavaScript</td>
     <td>Ano</td>
-    <td>Ano</td>
     <td>In progress</td>
+    <td>Ano</td>
     <td>In progress</td>
     <td>In progress</td>
     <td>In progress</td>
