@@ -71,16 +71,16 @@ mam hlad
     <td>JS for React</td>
     <td>Ano</td>
     <td>In progress</td>
-    <td>In progress</td>
+    <td>Ano</td>
     <td>In progress</td>
     <td>In progress</td>
     <td>In progress</td>
   </tr>
   <tr>
     <td>eShop</td>
+    <td>In progress</td>
     <td>X</td>
-    <td>X</td>
-    <td>X</td>
+    <td>In progress</td>
     <td>X</td>
     <td>X</td>
     <td>X</td>
