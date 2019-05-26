@@ -72,7 +72,7 @@ mam hlad
     <td>Ano</td>
     <td>In progress</td>
     <td>Ano</td>
-    <td>In progress</td>
+    <td>Ano</td>
     <td>In progress</td>
     <td>In progress</td>
   </tr>
@@ -81,7 +81,7 @@ mam hlad
     <td>In progress</td>
     <td>X</td>
     <td>In progress</td>
-    <td>X</td>
+    <td>In progress</td>
     <td>X</td>
     <td>X</td>
   </tr>
