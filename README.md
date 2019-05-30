@@ -78,10 +78,10 @@
   </tr>
   <tr>
     <td>eShop</td>
-    <td>In progress</td>
+    <td>FINITO</td>
     <td>X</td>
     <td>In progress</td>
-    <td>In progress</td>
+    <td>FINITO</td>
     <td>X</td>
     <td>X</td>
   </tr>
