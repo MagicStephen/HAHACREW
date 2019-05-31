@@ -70,19 +70,19 @@
   <tr>
     <td>JS for React</td>
     <td>Ano</td>
-    <td>In progress</td>
+    <td>ANo</td>
     <td>Ano</td>
     <td>Ano</td>
-    <td>In progress</td>
-    <td>In progress</td>
+    <td>Ano</td>
+    <td>Ano</td>
   </tr>
   <tr>
     <td>eShop</td>
     <td>FINITO</td>
-    <td>X</td>
+    <td>FINITO</td>
     <td>In progress</td>
     <td>FINITO</td>
-    <td>X</td>
-    <td>X</td>
+    <td>FINITO</td>
+    <td>FINITO</td>
   </tr>
 </table>
