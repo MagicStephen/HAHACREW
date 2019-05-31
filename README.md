@@ -61,11 +61,11 @@
   <tr>
     <td>React.js</td>
     <td>Ano</td>
-    <td>In progress</td>
     <td>Ano</td>
     <td>Ano</td>
-    <td>In progress</td>
-    <td>In progress</td>
+    <td>Ano</td>
+    <td>Ano</td>
+    <td>Ano</td>
   </tr>
   <tr>
     <td>JS for React</td>
