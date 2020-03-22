@@ -22,7 +22,7 @@ function backspace(){
 function Compute(){
     var input_var = document.form.input.value;
         if(input_var){
-            answers.push(eval(input_var));
+            answers.push(`${input_var} = ${eval(input_var)}`);
             document.form.answer.value = eval(input_var)
         }
 }
