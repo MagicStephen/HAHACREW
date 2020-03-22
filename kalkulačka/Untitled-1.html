@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="Style.css"> 
+<script type="text/javascript" src="calculator.js"></script>
+<title>Kalkulačka</title>
+</head>
+<body>
+    <div class="calculator">
+        <form action="" name="form">
+        <input type="text" id="vypis" readonly="readonly">
+        <input type="text" id="input" readonly="readonly">
+        <input type="text" id="answer" readonly="readonly" style="color: blue">
+        </form>
+            <table>
+                <tr>
+                    <td><input type="button" value= "7" onclick="getNumber(7)"></td>
+                    <td><input type="button" value= "8" onclick="getNumber(8)"></td>
+                    <td><input type="button" value= "9" onclick="getNumber(9)"></td>
+                    <td><input type="button" value= "/" onclick="getOperand('/')"></td>
+                    <td><input type="button" value= "C" onclick="clearScreen()('clearScreen')"></td>
+                    <td><input type="button" value= "<" onclick="backspace()('backspace')"></td>
+                </tr>
+                    <tr>
+                        <td><input type="button" value= "4" onclick="getNumber(4)"></td>
+                        <td><input type="button" value= "5" onclick="getNumber(5)"></td>
+                        <td><input type="button" value= "6" onclick="getNumber(6)"></td>
+                        <td><input type="button" value= "*" onclick="getOperand('*')"></td>
+                        <td colspan="2"><input style="width: 125px" type="button" value= "( )" onclick="brackets()('brackets')"></td>
+                    </tr>
+                            <tr>
+                                <td><input type="button" value= "1" onclick="getNumber(1)"></td>
+                                <td><input type="button" value= "2" onclick="getNumber(2)"></td>
+                                <td><input type="button" value= "3" onclick="getNumber(3)"></td>
+                                <td><input type="button" value= "-" onclick="getOperand('-')"></td>
+                                <td rowspan="2" colspan="3"><input type="button" value= "=" class="button1" style="height: 126px" onclick="Compute('Compute')"></td>
+                            </tr>
+                                    <tr>
+                                        <td colspan="2"><input type="button" value= "0"style="width: 125px"onclick="getNumber(0)"></td>
+                                        <td><input type="button" value= "." onclick="getNumber('.')"></td>
+                                        <td><input type="button" value= "+" onclick="getOperand('+')"></td>
+                                    </tr>
+                                    <button id="btn">vytisknout</button> 
+
+        </table> 
+    </div>  
+    
+</body>
+</html>
+    <script>
+    document.getElementById("calculator").addEventListener("click", function() {
+        x = document.getElementById("calculator");
+        if(x==1){
+        document.form.vypis.value = document.form.vypis.value+input+answer;
+      }else{
+          alert("error");
+      }
+    });
+    </script>
