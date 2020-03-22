@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="Style.css"> 
-<script type="text/javascript" src="calculator.js"></script>
+<link rel="stylesheet" type="text/css" href="Style.css">
 <title>Kalkulačka</title>
 </head>
 <body>
     <div class="calculator">
         <form action="" name="form">
-        <input type="text" id="vypis" readonly="readonly">
         <input type="text" id="input" readonly="readonly">
         <input type="text" id="answer" readonly="readonly" style="color: blue">
         </form>
@@ -40,20 +38,14 @@
                                         <td><input type="button" value= "." onclick="getNumber('.')"></td>
                                         <td><input type="button" value= "+" onclick="getOperand('+')"></td>
                                     </tr>
-                                    <button id="btn">vytisknout</button> 
+                                    <button id="btn" onclick="vypis()">vytisknout</button>
+        </table>
 
-        </table> 
-    </div>  
+    </div>
+    <div id ="vypis">
+        <h1>Posledni vysledky</h1><br>
+    </div>
     
 </body>
+<script type="text/javascript" src="calculator.js"></script>
 </html>
-    <script>
-    document.getElementById("calculator").addEventListener("click", function() {
-        x = document.getElementById("calculator");
-        if(x==1){
-        document.form.vypis.value = document.form.vypis.value+input+answer;
-      }else{
-          alert("error");
-      }
-    });
-    </script>

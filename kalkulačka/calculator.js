@@ -1,4 +1,5 @@
-const buttonElement = document.getElementById('.vypis')
+const vypisovePole = document.getElementById('vypis');
+let answers = [];
 
 function getNumber(num){
         document.form.input.value = document.form.input.value+num;
@@ -21,6 +22,7 @@ function backspace(){
 function Compute(){
     var input_var = document.form.input.value;
         if(input_var){
+            answers.push(eval(input_var));
             document.form.answer.value = eval(input_var)
         }
 }
@@ -36,9 +38,13 @@ function brackets(){
             i=0;
     }
 }
-const vypis = value => { 
-    valuesOnDisplay = valuesOnDisplay.concat(value);
-    display.innerHTML = valuesOnDisplay;
+const vypis = () => {
+    //console.log(answers);
+    for(let i=0; i < answers.length; i++){
+        vypisovePole.innerHTML += "<p>"+answers[i]+"</p><br>";
+    }
+    answers = [];
+
 }
 
 
